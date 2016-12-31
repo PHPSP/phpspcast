@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
-        <title>PHPSPCast: O Podcast do PHPSP</title>
+        <title>PHPSPCast</title>
         <link>http://git.io/phpspcast-rss</link>
         <language>pt-br</language>
         <atom:link href="http://git.io//phpspcast-rss" rel="self" type="application/rss+xml" />
@@ -13,6 +13,10 @@
             <width>1400</width>
             <height>1400</height>
         </image>
+
+        <itunes:subtitle>Podcast do PHPSP</itunes:subtitle>
+        <itunes:author>PHPSP</itunes:author>
+        <itunes:summary>PHPSPCast: O Podcast do PHPSP</itunes:summary>
 
         <itunes:owner>
             <itunes:name>PHPSP</itunes:name>
@@ -139,7 +143,7 @@
     Publicado em: 11/11/2009
     http://phpsp.org.br</description>
             <pubDate>2019-11-11T09:00:00Z</pubDate>
-            <enclosure url="https://archive.org/download/PHPSPCast-5a/PHPSPCast%20#5a_ PEAR e PECL - Pêras e Pepinos.mp3" type="audio/mpeg"/>
+            <enclosure url="https://archive.org/download/PHPSPCast-5a/PHPSPCast%20%235a_%20PEAR%20e%20PECL%20-%20Pe%CC%82ras%20e%20Pepinos.mp3" type="audio/mpeg"/>
             <guid>https://archive.org/details/PHPSPCast-5a</guid>
             <itunes:author>PHPSP</itunes:author>
             <itunes:subtitle>PHPSPCast #5a: PEAR e PECL – Pêras e Pepinos
