@@ -2,14 +2,14 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
     <channel>
         <title>PHPSPCast</title>
-        <link>http://git.io/phpspcast-rss</link>
+        <link>https://archive.org/details/@phpspcast</link>
         <language>pt-br</language>
-        <atom:link href="http://git.io//phpspcast-rss" rel="self" type="application/rss+xml" />
+        <atom:link href="http://phpsp.github.io/phpspcast/feed.xml" rel="self" type="application/rss+xml" />
 
         <image>
-            <url>https://archive.org/download/phpspcast-capa/phpspcast-capa-com-logo-1400-1400.png</url>
+            <url>https://archive.org/download/phpspcast-capa/phpspcast-capa-com-logo-1400-1400.jpg</url>
             <title>PHPSPCast</title>
-            <link>http://git.io/phpspcast-rss</link>
+            <link>https://phpsp.github.io/phpspcast/feed.xml</link>
             <width>1400</width>
             <height>1400</height>
         </image>
@@ -26,7 +26,7 @@
 
         <itunes:block>no</itunes:block>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:image href="https://archive.org/download/phpspcast-capa/phpspcast-capa-com-logo-1400-1400.png" />
+        <itunes:image href="https://archive.org/download/phpspcast-capa/phpspcast-capa-com-logo-1400-1400.jpg" />
 
         <itunes:category text="Technology" />
         <itunes:category text="Society &#38; Culture" />
